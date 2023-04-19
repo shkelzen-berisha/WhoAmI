@@ -1,6 +1,6 @@
 # Biografia ime e shkurter
 ## Jam Shkëlzen Berisha 
-Jam student ne UBT, Shkenca Komjuterike i apasionuar pas programimit. 
+Jam student ne UBT, Shkenca Komjuterike i pasionuar pas programimit. 
 
 ## Gjerat qe me pelqejne :
 
