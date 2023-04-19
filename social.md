@@ -1,1 +1,4 @@
-[facebook](https://www.facebook.com/)
+# Këto janë rrjetet e mia sociale,
+
+## [Linkedin](https://www.linkedin.com/feed/)
+## [Facebook](https://www.facebook.com/)
